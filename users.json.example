@@ -1,0 +1,41 @@
+{
+  "searchId": "6e7fca8203044bedbaee22a3f8a763f6",
+  "searchType": "Phone",
+  "searchCriteria": [
+    {
+      "searchName": "PhoneNumber",
+      "searchValue": "5551234567"
+    }
+  ],
+  "statusCode": "200",
+  "statusMessage": "OK",
+  "errorMessages": [],
+  "records": 1,
+  "searchCost": 0.05,
+  "searchDate": "2021-05-10T16:52:27.4559222-07:00",
+  "results": [
+    {
+      "reportedDate": "2014-05-01T00:00:00"
+      "firstName": "JOHN",
+      "middleName": "S",
+      "lastName": "SMITH",
+      "address": "123 ANYWHERE LANE",
+      "city": "LOS ANGELES",
+      "state": "CA",
+      "zip": "92010",
+      "email": "",
+      "phone": "5551234567",
+      "lineType": "Cell Phone",
+      "dob": "",
+      "occupation": "",
+      "employer": "",
+      "associatedDomain": "",
+      "dataTypeName": "Phone Listings",
+      "dataCategoryName": "Whitepages",
+      "webVerificationLink": "",
+      "agencyName": "",
+      "vol": "Vol1"
+      "recordId": "1234567890"
+    }
+  ]
+}
