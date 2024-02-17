@@ -123,8 +123,6 @@
         "type": "file",
         "format": "json",
         "description": "JSON file containing wallet addresses associated with the project"
-"banana-base":
-  "categories": {
       "union-members": {
         "type": "directory",
         "description": "Directory for storing information about union members"
@@ -207,8 +205,6 @@
         "type": "file",
         "format": "json",
         "description": "JSON file containing wallet addresses associated with the project"
-"banana-base":
-  "categories": {
       "union-members": {
         "type": "directory",
         "description": "Directory for storing information about union members"
@@ -250,8 +246,6 @@
         "type": "file",
         "format": "json",
         "description": "JSON file containing wallet addresses associated with the project"
-"banana-base":
-  "categories": {
       "union-members": {
         "type": "directory",
         "description": "Directory for storing information about union members"
