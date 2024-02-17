@@ -11,5 +11,26 @@
         "url": "https://twitter.com/project-twitter"
       },
       {
-        "name": "Discord Server",
-        "url": "https://discord.gg/project-discord"
+        "name": "OpenSea",
+        "url": "https://opensea.io/project_opensea"
+      },
+      {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/r/project_reddit"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/project_facebook"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/project_instagram"
+      },
+      {
+        "name": "Contributor Profiles",
+        "url": "https://project-contributors.com"
+      },
+      {
+        "name": "Team Profiles",
+        "url": "https://project-team.com"
+      }
