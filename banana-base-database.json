@@ -1,0 +1,42 @@
+"elements": {
+      "union-members": {
+        "type": "directory",
+        "description": "Directory for storing information about union members"
+      },
+      "madbananas": {
+        "type": "directory",
+        "description": "Directory for storing madbananas-related files"
+      },
+      "links": {
+        "type": "file",
+        "format": "txt",
+        "description": "Text file containing links relevant to the project"
+      },
+      "contracts": {
+        "type": "directory",
+        "description": "Directory for storing smart contract files"
+      },
+      "images": {
+        "type": "directory",
+        "description": "Directory for storing image files"
+      },
+      "partners": {
+        "type": "directory",
+        "description": "Directory for information about project partners"
+      },
+      "contributors": {
+        "type": "directory",
+        "description": "Directory for information about project contributors"
+      },
+      "union-orgs": {
+        "type": "directory",
+        "description": "Directory for storing information about union organizations"
+      },
+      "DAO": {
+        "type": "directory",
+        "description": "Directory for files related to the Decentralized Autonomous Organization"
+      },
+      "wallet-addresses": {
+        "type": "file",
+        "format": "json",
+        "description": "JSON file containing wallet addresses associated with the project"
