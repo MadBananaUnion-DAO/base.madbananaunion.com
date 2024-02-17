@@ -1,4 +1,5 @@
-"elements": {
+"banana-base":
+  "categories": {
       "union-members": {
         "type": "directory",
         "description": "Directory for storing information about union members"
