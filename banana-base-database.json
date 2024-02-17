@@ -3,6 +3,8 @@
       "union-members": {
         "type": "directory",
         "description": "Directory for storing information about union members"
+        "members": {
+        "all": [a,b,c,d,e]}
       },
       "madbananas": {
         "type": "directory",
