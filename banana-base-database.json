@@ -83,7 +83,9 @@
     "community-discord": "Link to the project's official Discord community.",
     "research-articles": "Directory for storing research articles related to the project.",
     "user-manuals": {},
-    "games": {},
+  "games": {
+    "BananaBombs": {}
+  }s
     "contribute": {}
   }
 }
