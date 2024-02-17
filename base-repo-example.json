@@ -1,0 +1,55 @@
+{
+  "BananaBase": {
+    "metadata": {
+      "version": "1.0",
+      "last_updated": "2024-02-16",
+      "description": "Schema for elements stored in the root directory of BananaBase"
+    },
+    "directories": [
+      {
+        "name": "documents",
+        "description": "Directory for storing textual documents related to BananaBase"
+      },
+      {
+        "name": "images",
+        "description": "Directory for storing image files related to BananaBase"
+      },
+      {
+        "name": "configurations",
+        "description": "Directory for storing configuration files for BananaBase"
+      },
+      {
+        "name": "scripts",
+        "description": "Directory for storing scripts or executable files"
+      },
+      {
+        "name": "logs",
+        "description": "Directory for storing log files related to BananaBase"
+      }
+      // Add more directories as needed
+    ],
+    "files": [
+      {
+        "name": "README.md",
+        "type": "text",
+        "description": "Readme file providing information about BananaBase"
+      },
+      {
+        "name": "LICENSE",
+        "type": "text",
+        "description": "License file specifying the terms of use for BananaBase"
+      },
+      {
+        "name": "config.json",
+        "type": "json",
+        "description": "Configuration file for BananaBase settings"
+      },
+      {
+        "name": "run.sh",
+        "type": "script",
+        "description": "Shell script for running BananaBase"
+      }
+      // Add more files as needed
+    ]
+  }
+}
