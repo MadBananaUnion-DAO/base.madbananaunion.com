@@ -1,8 +1,10 @@
-"banana-base":
-  "categories": {
+{
+  "banana-base": {
+    "categories": {
       "union-members": {
         "type": "directory",
         "description": "Directory for storing information about union members"
+      },
       "madbananas": {
         "type": "directory",
         "description": "Directory for storing madbananas-related files"
@@ -18,12 +20,70 @@
       },
       "images": {
         "type": "directory",
-        "description": "Directory for storing image files"
+        "description": "Directory for storing image files",
         "madbananas": "images for each specific madbanana"
       },
       "partners": {
         "type": "directory",
-        "description": "Directory for information about project partners"
-        "types": "parternership types"
-          "collaborations": "partnership type that involves the partner participating in a unified and collectively sponsored event."
+        "description": "Directory for information about project partners",
+        "types": "partnership types",
+        "collaborations": "partnership type that involves the partner participating in a unified and collectively sponsored event."
       }
+    }
+  },
+  "docs": {
+    "user-feedback": "Directory for collecting and storing user feedback.",
+    "community-forum": "Link to the project's community forum.",
+    "hackathons": "Directory for information about hackathon events.",
+    "support-tickets": "Directory for storing customer support tickets.",
+    "community-awards": "Directory for information about community awards.",
+    "academic-collaborations": "Directory for documents related to academic collaborations.",
+    "contribution-guidelines": "File containing guidelines for contributing to the project.",
+    "virtual-reality": "Directory for files related to virtual reality aspects.",
+    "podcast-transcripts": "Directory for transcripts of podcast episodes.",
+    "training-certifications": "Directory for training and certification materials.",
+    "app-store-links": "File containing links to the project's app on various app stores.",
+    "blockchain-explorers": "Directory for links to blockchain explorers relevant to the project.",
+    "opensource-contributions": "Directory for information on how to contribute to the project's open-source initiatives.",
+    "press-releases": "Directory for storing press release documents.",
+    "job-opportunities": "Directory for information about job opportunities related to the project.",
+    "community-ambassadors": "Directory for details about community ambassador programs.",
+    "use-case-demos": "Directory for demonstrations of use cases related to the project.",
+    "machine-learning-models": "Directory for storing machine learning models.",
+    "technical-specifications": "Directory for detailed technical specifications.",
+    "customer-testimonials": "Directory for storing customer testimonials.",
+    "sustainability-reports": "Directory for reports on the project's sustainability efforts.",
+    "forum-moderation": "Directory for guidelines and documents related to forum moderation.",
+    "network-analysis": "Directory for files related to network analysis of the project.",
+    "blockchain-standards": "Directory for documents related to blockchain standards compliance.",
+    "community-projects": "Directory for community-driven projects related to the main project.",
+    "legal-compliance": "Directory for documents related to legal compliance.",
+    "official-merchandise": "Directory for information about official project merchandise.",
+    "coding-standards": "File containing coding standards and best practices.",
+    "community-challenges": "Directory for information about community challenges or contests.",
+    "social-impact-reports": "Directory for reports on the social impact of the project.",
+    "regional-meetups": "Directory for information about regional meetup events.",
+    "cryptocurrency-exchanges": "Directory for links to cryptocurrency exchanges supporting the project's token.",
+    "community-developer-tools": "Directory for tools provided to the community for development.",
+    "community-guides": "Directory for guides created by the community.",
+    "product-demos": "Directory for videos or files showcasing product demonstrations.",
+    "documentation-styles": "File containing styles and conventions for project documentation.",
+    "community-projects-showcase": "Directory for showcasing community-driven projects.",
+    "data-migration-scripts": "Directory for scripts related to data migration.",
+    "blockchain-scalability": "Directory for information about the project's approach to blockchain scalability.",
+    "analytics-reports": "Directory for reports on project analytics.",
+    "partnership-opportunities": "Directory for information about potential partnership opportunities.",
+    "conference-materials": "Directory for materials related to conferences the project has participated in.",
+    "legal-disclaimers": "File containing legal disclaimers relevant to the project.",
+    "open-data": "Directory for providing access to open data sets.",
+    "analytics-dashboard": "Link to the project's analytics dashboard.",
+    "api-keys": "File containing information about API keys used in the project.",
+    "data-visualization": "Directory for files related to data visualization efforts.",
+    "community-telegram": "Link to the project's official Telegram community.",
+    "community-discord": "Link to the project's official Discord community.",
+    "research-articles": "Directory for storing research articles related to the project.",
+    "user-manuals": {},
+    "games": {},
+    "contribute": {}
+  }
+}
