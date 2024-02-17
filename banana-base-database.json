@@ -3,34 +3,6 @@
       "union-members": {
         "type": "directory",
         "description": "Directory for storing information about union members"
-        "members": {
-        "all": 
-            "union-members": [
-    {
-      "name": "John Doe",
-      "position": "President",
-      "email": "john.doe@example.com",
-      "phone": "+1234567890"
-    },
-    {
-      "name": "Jane Smith",
-      "position": "Vice President",
-      "email": "jane.smith@example.com",
-      "phone": "+9876543210"
-    },
-    {
-      "name": "Bob Johnson",
-      "position": "Secretary",
-      "email": "bob.johnson@example.com",
-      "phone": "+1122334455"
-    },
-    {
-      "name": "Alice Williams",
-      "position": "Treasurer",
-      "email": "alice.williams@example.com",
-      "phone": "+9988776655"
-}]},
-      },
       "madbananas": {
         "type": "directory",
         "description": "Directory for storing madbananas-related files"
