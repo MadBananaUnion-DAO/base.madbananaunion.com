@@ -1,5 +1,4 @@
-{
-  "banana-base": {
+"banana-base": {
     "categories": {
       "union-members": {
         "type": "directory",
